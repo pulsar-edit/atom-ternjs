@@ -1,3 +1,5 @@
+# This repo is Archived under Pulsar-Edit. As it is now a part of [`pulsar-cooperative`](https://github.com/pulsar-cooperative/pulsar-ternjs)
+
 # atom-ternjs
 
 > JavaScript code intelligence for atom with [Tern](https://github.com/ternjs/tern).
